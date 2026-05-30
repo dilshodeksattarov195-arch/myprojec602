@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartfetch",
+        "uuid": 3460898,
+        "checksum": "z31pcm"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
